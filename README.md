@@ -6,5 +6,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100010363235671)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: It's hard to get an error which isn't in Google:))
+- ⚡ Fun fact: Google can help:))
 
