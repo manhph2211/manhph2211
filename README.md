@@ -11,10 +11,10 @@
    <summary>:handshake: :smile: How to reach me!
    </summary>
  <br />
-  - [Mail](mailto:maxph22112000@gmail.com) 
+  - [maxph22112000@gmail.com](mailto:maxph22112000@gmail.com) 
   - [Facebook](https://www.facebook.com/profile.php?id=100010363235671)
   - [My CV](none.pdf)
-  
+ </ br> 
  </details>
 
 
@@ -27,8 +27,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhph2211)](https://github.com/anuraghazra/github-readme-stats)
 
 - My handbook:
-![My handbook](https://github-readme-stats.vercel.app/api/pin?username=manhph2211&repo=https://github.com/manhph2211/My-Handbook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![My handbook](https://github-readme-stats.vercel.app/api/pin?username=manhph2211&repo=My-Handbook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Others:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manhph2211&layout=compact)](https://github.com/manhph2211/github-readme-stats)
+[![More stats](https://github-readme-stats.vercel.app/api/wakatime?username=manhph2211&layout=compact)](https://github.com/manhph2211/github-readme-stats)
 
