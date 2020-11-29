@@ -11,8 +11,11 @@
   <summary>:handshake: :smile: How to reach me!
   </summary>
 <br />
+ 
  - [maxph22112000@gmail.com](mailto:maxph22112000@gmail.com) 
+ 
  - [Facebook](https://www.facebook.com/profile.php?id=100010363235671)
+ 
  - [My CV](none.pdf)
  
 </details>
