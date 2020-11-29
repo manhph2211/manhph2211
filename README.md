@@ -20,13 +20,10 @@
 - My stats:
 ![Max's github stats](https://github-readme-stats.vercel.app/api?username=manhph2211&hide=contribs,issues&show_icons=true)
 
-- Top languages
+- Top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhph2211)](https://github.com/anuraghazra/github-readme-stats)
 
-- Wakatime card
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manhph2211)](https://github.com/anuraghazra/github-readme-stats)
-
-- My handbook
+- My handbook:
 ![My handbook](https://github-readme-stats.vercel.app/api/pin?username=manhph2211&repo=My-Handbook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
