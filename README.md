@@ -26,7 +26,7 @@
 
 - Top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhph2211&hide=Jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhph2211&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
