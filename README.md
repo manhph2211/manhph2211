@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Max 👋
 
 - 🔭 I’m currently a second-year student at HUST
-- 🌱 I’m currently learning IoT & ML
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Google can help:))
+- 🌱 I’m currently studying IoT & ML
+
  
 
 <details>
