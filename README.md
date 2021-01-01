@@ -18,10 +18,6 @@
  
 </details>
 
-- My stats:
-
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=manhph2211&hide=contribs,issues&show_icons=true)
-
 - Top languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhph2211&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
