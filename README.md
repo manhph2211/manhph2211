@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 👋
 
-- 🔭 I’m currently stuyding in the field of Computer Science and IoT at Hanoi University of Science and Technology
+- 🔭 I’m currently studying in the field of Computer Science and IoT at Hanoi University of Science and Technology
 - 🌱 I'm really interested in applying AI as well as IoT to address real world problems
 - :star: I’m looking for Summer 2021 internship opportunities in Machine Learning Engineer :raising_hand:. 
  
