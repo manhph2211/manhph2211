@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently studying in the field of Computer Science and IoT at Hanoi University of Science and Technology
+- 🔭 I’m currently studying in the field of Computer Science and IoT at HUST
 
 - 👯 I'm really interested in applying AI as well as IoT to address real world problems
 
