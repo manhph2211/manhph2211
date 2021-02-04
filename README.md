@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I'm a gud boiz :smiley: </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhph2211&label=Profile%20views&color=0e75b6&style=flat" alt="manhph2211" /> </p>
 
-- 🔭 I’m currently **studying in the field of Computer Science and IoT at Hanoi University of Science and Technology**
+- 🔭 I’m currently studying in the field of Computer Science and IoT at Hanoi University of Science and Technology
 
-- 👯 I'm really **interested in applying AI as well as IoT to address real world problems**
+- 👯 I'm really interested in applying AI as well as IoT to address real world problems
 
-- 👋 I’m **looking for Summer 2021 internship opportunities in Machine Learning Engineer**
+- 👋 I’m looking for Summer 2021 internship opportunities in Machine Learning Engineer :raising_hand: 
 
-- 💬 Ask me about **Data science, Machine Learning**
+- 💬 Ask me about: Data science, Machine Learning
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact: I'm a gud boiz :rasing_hand:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
