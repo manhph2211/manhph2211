@@ -4,15 +4,15 @@
 
 
 
-- 🔭 I’m currently studying in the field of Computer Science and IoT at HUST
+- 👋 I’m currently studying in the field of Computer Science and IoT at HUST
 
 - 👯 I'm really interested in applying AI as well as IoT to address real world problems
 
-- 👋 I’m looking for Summer 2021 internship opportunities in Machine Learning Engineer :raising_hand: 
+- 🔭 I’m looking for Summer 2021 internship opportunities in Machine Learning Engineer :raising_hand: 
 
 - 💬 Ask me about: Data science, Machine Learning
 
-- ⚡ Fun fact: I'm a gud boiz :raising_hand:
+- ⚡ Fun fact: I'm a gud boi :raising_hand:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
