@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/15145733" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15145733" height="30" width="40" /></a>
 <a href="https://kaggle.com/jackph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jackph" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010363235671" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010363235671" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010363235671" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010363235671" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
