@@ -2,15 +2,13 @@
 
 
 
-
-
 - 👋 I’m currently studying in the field of Computer Science and IoT at HUST
 
 - 👯 I'm really interested in applying AI as well as IoT to address real world problems
 
-- 🔭 I’m looking for Summer 2021 internship opportunities in Machine Learning Engineer :raising_hand: 
+- 🔭 I’m looking for 2021 job opportunities in Machine Learning Engineer :raising_hand: 
 
-- 💬 Ask me about: Data science, Machine Learning
+- 💬 Ask me about: Deeplearning, NLP , CV
 
 - ⚡ Fun fact: I'm a gud boi :raising_hand:
 
