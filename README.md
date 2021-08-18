@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/profile.php?id=100010363235671" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010363235671" height="30" width="40" /></a>
 </p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="150" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
 
 
 <h3 align="left">Languages and Tools:</h3>
