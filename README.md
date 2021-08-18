@@ -37,7 +37,7 @@
 <div class="row">
   <div class="column">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=manhph2211&show_icons=true&theme=compact" alt="manhph2211" height="150" width = "300" />
-     <img align="center" alt="GIF" src="https://i.gifer.com/7IjS.gif" width="280" height="120" />
+     <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="280" height="131" />
   </div>
 </div>
 
