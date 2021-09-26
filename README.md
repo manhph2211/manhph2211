@@ -28,7 +28,7 @@
 
 <div class="row">
   <div class="column">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhph2211&show_icons=true&locale=en&layout=compact" alt="manhph2211" height="150" width = "300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhph2211&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="manhph2211" height="150" width = "300" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhph2211&" alt="manhph2211" height="150" width = "300" />
   </div>
 </div>
