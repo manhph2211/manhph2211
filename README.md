@@ -7,11 +7,11 @@
 
 - 👯 I'm really interested in applying AI as well as IoT to address real world problems
 
-- 🔭 I’m looking for 2021 job opportunities in Machine Learning Engineer :raising_hand: 
+- 🔭 I’m looking for 2022 job opportunities in Machine Learning Engineer :raising_hand: 
 
-- 💬 Ask me about: Deeplearning, NLP , CV
+- 💬 Ask me about: Deeplearning, NLP , CV, Speech Processing
 
-- ⚡ Fun fact: I'm a gud boi :raising_hand:
+- ⚡ Fun fact: I'm really into soccer and my favorite team is MU, still 🙂
 
 
 
