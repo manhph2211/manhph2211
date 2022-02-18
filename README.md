@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    I am a senior at HUST <b>programmer</b>, having passionated in <b>coding</b> <img src="./images/Developer.gif" width="30px">
+    I am a senior at <b>HUST</b>, having passionated in <b>coding</b> <img src="./images/Developer.gif" width="30px">
      <img src="./images/Designer.gif" width="36px">  I am an ambitious, hard-working, and aggressive learner who believes the core value of any business is to improve people's lives</b>
   </em> 
   <br>
