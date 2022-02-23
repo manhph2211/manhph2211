@@ -13,7 +13,8 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile.jpg" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile.jpg" /> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="210" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 - 👋 I'm always eager to learn new things day by day
@@ -34,6 +35,7 @@
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
