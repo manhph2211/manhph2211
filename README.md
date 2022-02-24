@@ -29,14 +29,10 @@
 
 ### ***📊 GitHub Profile Stats***
 
-<p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manhph2211&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manhph2211&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook,java"/>
-<br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-
+|Github Stats | Top Languages |
+|-------------|---------------|
+|<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manhph2211&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />|<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manhph2211&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook,java" />|
+      
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br>
