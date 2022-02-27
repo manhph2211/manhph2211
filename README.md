@@ -1,6 +1,6 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">AI Developer</h3>
 
 <p align="center">
   <em>
