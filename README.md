@@ -19,7 +19,7 @@
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 - 👋 I'm always eager to learn new things day by day
 - 👯 I'm really interested in applying AI as well as IoT to address real world problems
-- 🔭 I’m looking for 2022 job opportunities in Machine Learning Engineer :raising_hand:
+- 🔭 I’m looking for Master/PhD Scholarship in Computer Science :raising_hand:
 - ⚡ Fun fact: I'm really into soccer and my favorite team is MU, still 🙂
 <br>
 
