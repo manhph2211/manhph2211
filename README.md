@@ -42,6 +42,9 @@
 
 ![divider](./images/divider.gif)
 
+![snake gif](https://github.com/manhph2211/manhph2211/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
