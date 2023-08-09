@@ -33,9 +33,9 @@
 |<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manhph2211&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />|<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manhph2211&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook,java" />|
       
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent Leetcode Activity</summary>
   <br>
-   <img alt="Max's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manhph2211&custom_title=manhph2211's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<!--    <img alt="Max's Activity Graph" src="https://leetcard.jacoblin.cool/maxph2211?ext=heatmap)](https://leetcode.com/maxph2211" /> -->
   <br/>
 </details>
 
