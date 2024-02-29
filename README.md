@@ -5,10 +5,10 @@
 <p align="center">
   <em>
     I am now a PhD researcher having passionated in <b>Machine Learning on Edge Devices</b> <img src="./images/Developer.gif" width="30px">
-     <img src="./images/Designer.gif" width="36px">  I am an ambitious, hard-working, and aggressive learner who believes the core value of any business is to improve people's lives</b>
+     <img src="./images/Designer.gif" width="36px">  I am an ambitious, and aggressive learner who is always eager to gain new knowledge daily </b>
   </em> 
   <br>
-  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Be strong, be yourself!”</i></b> <img src="./images/dog_1.gif" width="50" />
+  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Never Give up!”</i></b> <img src="./images/dog_1.gif" width="50" />
 </p>
 
 <br>
