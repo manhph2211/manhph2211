@@ -4,8 +4,7 @@
 
 <p align="center">
   <em>
-    I am now a PhD researcher having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px">
-     <img src="./images/Designer.gif" width="36px">  I always eager to gain new knowledge daily </b>
+    I am now a PhD researcher having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px"> I always eager to gain new knowledge daily <img src="./images/Designer.gif" width="36px">  </b>
   </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Never Give up!”</i></b> <img src="./images/dog_1.gif" width="50" />
