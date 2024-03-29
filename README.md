@@ -1,10 +1,10 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">AI Researcher</h3>
+<h3 align="center">AI Researcher <img src="./images/Designer.gif" width="36px"> </h3>
 
 <p align="center">
   <em>
-    I am now a PhD researcher having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px"> I always eager to gain new knowledge daily <img src="./images/Designer.gif" width="36px">  </b>
+    I am now a PhD researcher having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px"> I eager to gain new knowledge daily </b>
   </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Never Give up!”</i></b> <img src="./images/dog_1.gif" width="50" />
