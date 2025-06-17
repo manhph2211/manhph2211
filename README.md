@@ -40,8 +40,8 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    	<code><a href="https://www.facebook.com/profile.php?id=100010363235671/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/manh-pham-076926209/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+    	<code><a href="https://github.com/manhph2211/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/manhph2211/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
 	<code><a href="mailto:maxph22112000@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 
