@@ -7,17 +7,17 @@
     I am now a PhD Student having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px"> I eager to gain new knowledge daily </b>
   </em> 
   <br>
-  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Never Give up!”</i></b> <img src="./images/dog_1.gif" width="50" />
+ <!-- <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Humble Learner”</i></b> <img src="./images/dog_1.gif" width="50" />-->
 </p>
 
 <br>
 
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
-- 👋 I'm always eager to learn new things day by day
-- 👯 I'm really interested in applying AI as well as IoT to address real world problems
-- 🔭 I’m looking for a team to research and develop promising products :raising_hand:
-- ⚡ Fun fact: I'm really into soccer and my favorite team is MU, still 🙂
+- 👋 I'm always eager to learn new things day by day.
+- 👯 I'm really interested in applying AI as well as IoT to address real world problems.
+- 🔭 I’m looking for a team to research and develop promising products.
+- ⚡ Fun fact: I'm really into soccer and my favorite team is MU, still.
 <br>
 
 ### ***📊 GitHub Profile Stats***
