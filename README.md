@@ -3,9 +3,7 @@
 <h3 align="center">Max Ph <img src="./images/Designer.gif" width="36px"> </h3>
 
 <p align="center">
-  <em>
-    I am now a PhD Student having passionated in <b>Machine Learning in Healthcare</b> <img src="./images/Developer.gif" width="30px"> I eager to gain new knowledge daily </b>
-  </em> 
+    I am currently a PhD Student having passionated in Machine Learning For Healthcare 😄
   <br>
  <!-- <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Humble Learner”</i></b> <img src="./images/dog_1.gif" width="50" />-->
 </p>
