@@ -13,8 +13,8 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 - 👋 I’m a humble learner with a curious soul.
-- 👯 I'm really interested in applying AI as well as IoT to address real world problems.
-- 🔭 I’m looking for a team to research and develop promising products.
+- 👯 I'm interested in applying AI as well as IoT to address real world problems.
+- 🔭 I’m looking for a team to research and develop impactful works together.
 - ⚡ Fun fact: I'm really into soccer and my favorite team is MU, still.
 <br>
 
