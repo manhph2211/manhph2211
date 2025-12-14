@@ -40,7 +40,7 @@
   <p align="center">
     	<code><a href="https://github.com/manhph2211/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
 	<code><a href="https://www.linkedin.com/in/manhph2211/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="mailto:maxph22112000@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+	<code><a href="mailto:manhph2k@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 
   
