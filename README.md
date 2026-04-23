@@ -1,6 +1,6 @@
 <!--![alt text](./images/header.svg)-->
 
-<h3 align="center">Max Ph <img src="./images/Designer.gif" width="36px"> </h3>
+<h3 align="center">Manh Pham<img src="./images/Designer.gif" width="36px"> </h3>
 
 <p align="center">
     I am currently a PhD Student having passionated in AI For Healthcare 😊
