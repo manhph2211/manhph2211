@@ -32,10 +32,10 @@
   <br/>
 </details>
 
-![divider](./images/divider.gif)
+<!--![divider](./images/divider.gif) -->
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat!</i>
 
   <p align="center">
     	<code><a href="https://github.com/manhph2211/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
