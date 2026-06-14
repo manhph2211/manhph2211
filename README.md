@@ -1,9 +1,9 @@
 <!--![alt text](./images/header.svg)-->
 
-<h3 align="center">Manh Pham <img src="./images/Designer.gif" width="36px"> </h3>
+<h3 align="center">Hung Manh Pham <img src="./images/Designer.gif" width="36px"> </h3>
 
 <p align="center">
-    I am currently a PhD Student having passionated in AI For Healthcare 😊
+    I am currently a PhD Candidate having passionated in AI for Healthcare 😊
   <br>
  <!-- <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Humble Learner”</i></b> <img src="./images/dog_1.gif" width="50" />-->
 </p>
